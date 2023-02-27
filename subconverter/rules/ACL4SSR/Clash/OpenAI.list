@@ -1,5 +1,4 @@
 # > 🤖 OpenAI
-USER-AGENT,Argo*,OpenAI
 DOMAIN-SUFFIX,openai.com,OpenAI
 DOMAIN-KEYWORD,openaiapi,OpenAI
 DOMAIN-KEYWORD,openaipublic,OpenAI
